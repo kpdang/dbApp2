@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">dbApp2</string>
+    <string name="view_file">View File</string>
+    <string name="save_file1">Save File</string>
+    <string name="save_file11">Save File</string>
+    <string name="view2">view file from external storage</string>
+    <string name="save2">Save file to external storage</string>
+    <string name="sharedpref1">Save using shared preferences</string>
+    <string name="viewsharePref1">View file using shared preferences</string>
+    <string name="enter_name_file_contents">Enter name/file contents</string>
+    <string name="enter_rollno_file_name">Enter rollno/file name</string>
+    <string name="view_int">View int</string>
+    <string name="view_ext">View ext</string>
+    <string name="save_int">save int</string>
+    <string name="save_ext">Save ext</string>
+    <string name="save_pref">Save pref</string>
+    <string name="insert">Insert</string>
+    <string name="update">update</string>
+    <string name="view_pref">View pref</string>
+    <string name="delete">Delete</string>
+    <string name="view">View</string>
+</resources>
